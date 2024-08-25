@@ -1,0 +1,21 @@
+table {
+    margin:100px 350px ;
+    width:600px;
+    height:400px;
+}
+
+th,td{
+    border: 1px solid black;
+}
+
+td {
+    text-align: center;
+}
+
+th {
+    background-color: cyan;
+}
+
+.header {
+    background-color: yellow;
+}

@@ -1,0 +1,37 @@
+.box1,.box2,.bbox1,.bbox2,.bbox3 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box1{
+    width:50%;
+    background-color: gray;
+    float:left;
+}
+
+.box2{
+    width:50%;
+    background-color: rgb(220, 220, 220);
+    float:right;
+}
+
+.bbox1 {
+    width:33%;
+    background-color: gray;
+    float:right;
+    margin-top:10px;
+}
+
+.bbox2 {
+    width:33%;
+    background-color: rgb(201, 201, 201);
+    float:left;
+    margin-top:10px;
+}
+
+.bbox3 {
+    width:34%;
+    float:right;
+    background-color: rgb(232, 232, 232);
+    margin-top:10px;
+}

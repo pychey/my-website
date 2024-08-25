@@ -1,0 +1,29 @@
+body {
+    background-color:gray;
+}
+
+.box {
+    background-color: white;
+    margin:20px 100px;
+    padding:10px 50px 50px;
+    border:3px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+.story {
+    width:60%;
+    height:350px;
+    margin-right:50px;
+}
+
+img {
+    width:30%;
+    height:350px;
+}
+
+.story,img {
+    display:inline-block;
+}
